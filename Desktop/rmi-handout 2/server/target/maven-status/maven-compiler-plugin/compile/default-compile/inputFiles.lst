@@ -1,0 +1,6 @@
+/Users/tringuyen/Desktop/CS475/rmi-handout/server/src/main/java/edu/gmu/cs475/Tag.java
+/Users/tringuyen/Desktop/CS475/rmi-handout/server/src/main/java/edu/gmu/cs475/FileTagManagerServer.java
+/Users/tringuyen/Desktop/CS475/rmi-handout/server/src/main/java/edu/gmu/cs475/TaggedFile.java
+/Users/tringuyen/Desktop/CS475/rmi-handout/server/src/main/java/edu/gmu/cs475/internal/ServerMain.java
+/Users/tringuyen/Desktop/CS475/rmi-handout/server/src/main/java/edu/gmu/cs475/struct/NoSuchTagException.java
+/Users/tringuyen/Desktop/CS475/rmi-handout/server/src/main/java/edu/gmu/cs475/struct/TagExistsException.java
