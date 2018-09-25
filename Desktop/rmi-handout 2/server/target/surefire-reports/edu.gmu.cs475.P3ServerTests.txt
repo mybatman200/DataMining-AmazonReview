@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: edu.gmu.cs475.P3ServerTests
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 16.683 sec <<< FAILURE! - in edu.gmu.cs475.P3ServerTests
-testHeartbeatOnlyExpiresCorrectLock(edu.gmu.cs475.P3ServerTests)  Time elapsed: 2.106 sec  <<< FAILURE!
-java.lang.AssertionError: Unexpected exception
-	at edu.gmu.cs475.P3ServerTests.testHeartbeatOnlyExpiresCorrectLock(P3ServerTests.java:142)
-
